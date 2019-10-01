@@ -8,5 +8,6 @@ Simple library management system using graphical user interface.
 3.Run the app locally 
 ```
 cd ../Library-management-system-GUI-master
+pip install python-tk
 python library.py
 ```
